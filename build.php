@@ -52,7 +52,7 @@ $config['uri_stylesheets'] = '/stylesheets/';
 $config['genpassword_chars'] = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+';
 
 $config['debug'] = true;
-
+$config['allow_delete'] = true;
 $config['cookies']['js'] = 'serv';
 
 $config['minify_js'] = true;
